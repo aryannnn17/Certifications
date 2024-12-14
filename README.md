@@ -6,6 +6,8 @@
 
 -> Introduction to IoT with Cisco - https://www.credly.com/badges/d8096780-dcd4-4c1b-a7c8-fde492e949c9/print
 
+-> Python Essentials by Cisco - https://www.credly.com/badges/c192db95-4220-40a7-88bb-e2eb4b360ad6/print
+
 -> Supervised Machine Learning from Stanford Online by DeepLearningAI - https://www.coursera.org/account/accomplishments/verify/MPNRRI4ZQDWH
 
 -> nRF Connect SDK Fundamentals with Nordic Semiconductors - https://academy.nordicsemi.com/check-certificate/7019A8676E97E90-7019A8670C60035-7019A8670B7577C/
