@@ -1,4 +1,6 @@
-**Credentials** >>
+<h1> Certificate Credentials </h1>
+
+-> Machine Learning Specialization - Stanford University - https://www.coursera.org/account/accomplishments/specialization/TWTVNKNYKMKX
 
 -> Next.js Creating and Hosting a Full-Stack Site - LinkedIn - https://www.linkedin.com/learning/certificates/029ef9d0ec32b84a0fa0c28b8d15683832488453921c9490dcbf66d181322fa2?trk=share_certificate
 
